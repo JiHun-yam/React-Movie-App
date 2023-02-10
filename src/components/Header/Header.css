@@ -1,0 +1,31 @@
+.header-container {
+    width: 100%;
+    height: 66px;
+    background: #22254b;
+    border-radius: 5px;
+    display: flex;
+
+}
+
+.header-wrap {
+    padding-left: 150px;
+    display: flex;
+
+}
+
+.header-nav-left {
+    display: flex;
+    gap: 25px;
+    color: white;
+    align-items: center;
+}
+
+.header-nav-item {
+
+    color: white;
+    text-decoration: none;
+}
+
+.header-nav-item:hover {
+    opacity: 0.5;
+}

@@ -1,0 +1,49 @@
+.page-container {
+    width: 80%;
+    height: 700px;
+
+
+    margin: 50px auto
+}
+
+.page-container .page-wrap {
+    display: flex;
+
+
+}
+
+.detail_img {
+    width: 500px;
+    height: 700px;
+}
+
+.detail_text {
+    height: 700px;
+    padding: 15px;
+    background: #373b69;
+    color: white;
+
+}
+
+.detail-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20%;
+    border: 1px solid gray;
+}
+
+.detail-overview {
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+}
+
+.detail-vote {
+    height: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
